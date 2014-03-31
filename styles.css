@@ -1,8 +1,10 @@
-p {
-  color:blue;
+/* Así es un comentario en CSS */
+#menu {
+    height: auto;
+    width: auto;
+    background-color: red;
 }
 
-h1 { 
-  color:red;
-  font-size:15px;
+#menu tr {
+    margin-left: 100px;
 }
