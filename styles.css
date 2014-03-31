@@ -3,7 +3,10 @@
     height: auto;
     width: auto;
     background-color: #79f0ff;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius: 10px;
 }
+
 #menu table {
     text-align: center;
 }
