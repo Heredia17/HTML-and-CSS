@@ -1,0 +1,6 @@
+<!-- Comentad aquí dudas, proyectos y demás. -->
+<!-- Esto tampoco implica que sea lo más cómodo del mundo, pero es para ir dejando constancia de ideas y un registro. -->
+<!-- Añadir <nombre> para identificarse. -->
+<!DOCTYPE comments>
+<toni> Crear una web tutorial, para ir cogiendo carrerilla e ir cogiendo conceptos más profundos más allá de lo inicial.<br/>
+Imágenes, documentación, enlaces, tablas, etc.
